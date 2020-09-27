@@ -1,0 +1,373 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.bg-light {
+    background-image: url('img/fon_header.png');
+}
+.mr-auto{
+    padding-left: 20px;
+}
+.ml-auto{
+    padding-right: 20px;
+}
+.nav-link, .blok_1, .install_web, .install_web2, .install_web3{
+    color: #393e6b!important;
+}
+.blok_1, .blok_3, .blok_5{
+    background-color: #eff4f4;
+}
+.text_gr{
+    font-size: 16pt;
+    padding-bottom: 40px;
+    color: #919398;
+}
+.install_web3{
+    padding-top: 75px;
+    padding-bottom: 30px;
+}
+.install_web2{
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+.install_web{
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+h1{
+     transform: translate(0px, 120%);
+     opacity: 0;
+    transition: all 0.8s ease 0s;
+}
+h1._active{
+     transform: translate(0px, 0px);
+     opacity: 1;
+}
+.attempt{
+    display: inline-block;
+    cursor: pointer;
+    font-size:18pt;
+    text-decoration:none;
+    padding:10px 20px;
+    color:#ffffff;
+    background:#2cd3b8;
+    border-radius:60px;
+    border:2px solid #2cd3b8;
+}
+.attempt:hover{
+    background:#ffffff;
+    color:#000000;
+    border:2px solid #2cd3b8;
+    transition: all 0.2s ease;
+    text-decoration: none;
+}
+.rate{
+    margin-left: 15px;
+    display: inline-block;
+    cursor: pointer;
+    font-size:18pt;
+    text-decoration:none;
+    padding:10px 130px;
+    color:#393e6b;
+    background:#eff4f4;
+    border-radius:60px;
+    border:2px solid #393e6b;
+}
+.rate:hover{
+    background:#393e6b;
+    color:#eff4f4;
+    border:2px solid #393e6b;
+    transition: all 0.2s ease;
+    text-decoration: none;
+}
+.knopki{
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.blok_4, .blok_3{
+    padding-bottom: 50px;
+}
+.link_blok{
+    font-size: 24pt;
+    color: #0da088;
+    text-decoration: underline;
+}
+.link_blok:hover{
+    color: #0da088;
+    text-decoration: none;
+}
+.numbers, .numbers_two{
+    line-height: 150px;
+    font-weight: 700;
+    font-size: 12rem;
+    color: #e9e9ed;
+}
+.icon, .icon_shag{
+    width: 74px;
+    height: 74px;
+}
+.item_1{
+    padding-top: 50px;
+    display: flex;
+}
+.onetwo{
+    width: 50px;
+    height: 50px;
+    fill: #363b66;
+    margin-top: 80px;
+    margin-left: -45px;
+}
+.numbers_two{
+    padding-left: 90px;
+}
+.word_indent{
+    padding-left: 190px;
+}
+.word_indent2, .numbers, .numbers_two{
+    padding-left: 120px;
+}
+.reg_inst{
+    padding-bottom: 80px; 
+}
+li, .shag_1, .shag_2, .shag_3, .shag_4, .shag_5, .shag_6, .text_blok6{
+    color: #393e6b;
+}
+ul{
+    padding-left: 15px;
+}
+.shag_1, .shag_2, .shag_3, .shag_4, .shag_5, .shag_6, .sety, .obr_sv, .chat{
+    display: flex;
+    flex: 1;
+}
+.shag_2, .shag_3, .shag_4, .shag_5, .shag_6{
+    padding-top: 30px; 
+}
+.shagi{
+    font-size: 18pt;
+    padding-top: 15px;
+    padding-left: 38px;
+}
+.shag_6, .knop_b{
+    padding-bottom: 70px;
+}
+.test_free{
+    margin-left: 20px;
+    display: inline-block;
+    cursor: pointer;
+    font-size:18pt;
+    text-decoration:none;
+    padding:10px 20px;
+    color:#ffffff;
+    background:#3b4269;
+    border-radius:60px;
+    border:2px solid #3b4269;
+}
+.test_free:hover{
+    text-decoration: none;
+    background:#ffffff;
+    color:#3b4269;
+    border:2px solid #3b4269;
+    transition: all 0.2s ease;
+}
+.text_blok6{
+    font-size: 18pt;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+footer{
+    background-color: #393e6b;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.toils{
+    fill: #adb0c2;
+    width: 30px;
+    height: 25px;
+}
+.toils:hover{
+    fill: white;
+}
+.img_phone{
+    display: flex;
+}
+.telephone{
+   margin-top: 2px;
+   width: 30px;
+   height: 30px; 
+}
+.webim08{
+    display: inline-block;
+    color: #b2b3bc;
+}
+.znak{
+    display: inline-block;
+}
+.tx_wh{
+    font-size: 14pt;
+    color: white;
+}
+.foot_c{
+    margin-left: -150px;
+}
+.msk{
+    margin-top: -15px;
+}
+.ots08{
+    margin-top: 25px;
+}
+.tx_wh_si{
+    margin-left: 5px;
+   font-size: 16pt;
+    color: white;
+}
+.kanal{
+    padding-bottom: 70px;
+}
+.foot{
+    padding-bottom: 60px;
+}
+.fo-si{
+    font-size: 18pt;
+}
+@media screen and (min-width: 992px){
+.kanal_1, .kanal_2, .kanal_3{
+    display: flex;
+    flex: 1;
+} 
+}
+@media screen and (max-width: 1150px){
+.foot_c{
+    margin-left: 0px;
+}
+}
+@media screen and (max-width: 992px){
+.bg-light{
+    font-size: 16pt;
+    background-image: none;
+    text-align: center;
+}
+.mr-auto{
+    padding-left: 0px;
+}
+.ml-auto{
+    padding-right: 0px;
+}
+.navbar-brand{
+     margin: 0 auto;
+}
+.knopki{
+    text-align: center;
+}
+.attempt{
+    margin-bottom: 20px;
+    width: 100%;
+}
+.test_free, .rate{
+    width: 100%;
+    margin: 0 auto;
+}
+.knop_b{
+    text-align: center;
+}
+.fo-si{
+    font-size: 24pt;
+}
+.icon {
+    width: 120px;
+    height: 120px;
+}
+.new-shag{
+    width: 150px;
+    height: 150px; 
+}
+.shagi{
+    padding-top: 15px;
+}
+.word_indent2{
+    padding-left: 60px;
+}
+.word_indent {
+    padding-left: 170px;
+}
+}
+@media screen and (max-width: 920px){
+.foot_c, .foot_r, .web_gr{
+    display: none;
+}
+.foot{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+}
+@media screen and (max-width: 768px){
+.fo-si{
+    font-size: 16pt;
+}
+.new-shag{
+    width: 200px;
+    height: 200px; 
+}
+    .icon_shag{
+    width: 120px;
+    height: 120px;
+}
+}
+@media screen and (max-width: 660px){
+.numbers, .numbers_two{
+    padding-left: 80px;
+}
+    .word_indent {
+    padding-left: 150px;
+}   
+}
+@media screen and (max-width: 450px){
+.attempt{
+    font-size: 14pt;
+}
+.rate{
+    font-size: 14pt;
+    padding: 10px 10px;
+}
+.numbers, .numbers_two{
+    padding-left: 30px;
+}
+.word_indent, .word_indent2{
+    font-size: 8pt;
+}
+.word_indent{
+    padding-left: 110px;
+}
+.test_free{
+    font-size: 14pt;
+}
+}
+@media screen and (max-width: 350px){
+.install_web{
+    padding-top: 50px;
+}
+.attempt, .rate{
+    font-size: 12pt;
+    }
+.word_indent{
+    padding-left: 90px;
+}
+.link_blok{
+    font-size: 20pt;
+}
+.text_gr{
+    font-size: 14pt;
+}
+.test_free{
+    font-size: 12pt;
+}
+.text_blok6{
+    font-size: 16pt;
+}
+.link_blok{
+    font-size: 14pt;
+}
+}
